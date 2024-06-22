@@ -1,0 +1,11 @@
+C:\Users\grdan\Desktop\SquaresLib\SquaresLib\bin\Debug\net8.0\SquaresLib.deps.json
+C:\Users\grdan\Desktop\SquaresLib\SquaresLib\bin\Debug\net8.0\SquaresLib.dll
+C:\Users\grdan\Desktop\SquaresLib\SquaresLib\bin\Debug\net8.0\SquaresLib.pdb
+C:\Users\grdan\Desktop\SquaresLib\SquaresLib\obj\Debug\net8.0\SquaresLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grdan\Desktop\SquaresLib\SquaresLib\obj\Debug\net8.0\SquaresLib.AssemblyInfoInputs.cache
+C:\Users\grdan\Desktop\SquaresLib\SquaresLib\obj\Debug\net8.0\SquaresLib.AssemblyInfo.cs
+C:\Users\grdan\Desktop\SquaresLib\SquaresLib\obj\Debug\net8.0\SquaresLib.csproj.CoreCompileInputs.cache
+C:\Users\grdan\Desktop\SquaresLib\SquaresLib\obj\Debug\net8.0\SquaresLib.dll
+C:\Users\grdan\Desktop\SquaresLib\SquaresLib\obj\Debug\net8.0\refint\SquaresLib.dll
+C:\Users\grdan\Desktop\SquaresLib\SquaresLib\obj\Debug\net8.0\SquaresLib.pdb
+C:\Users\grdan\Desktop\SquaresLib\SquaresLib\obj\Debug\net8.0\ref\SquaresLib.dll

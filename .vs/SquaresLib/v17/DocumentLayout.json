@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\grdan\\Desktop\\SquaresLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AEFC16D-C454-4A24-A143-DDA730B593FD}|SQL-Request\\SQL-Request.csproj|c:\\users\\grdan\\desktop\\squareslib\\sql-request\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AEFC16D-C454-4A24-A143-DDA730B593FD}|SQL-Request\\SQL-Request.csproj|solutionrelative:sql-request\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C91C3D-25B4-4D28-A6C9-0A8D2A19C353}|SquaresLib.Tests\\SquaresLib.Tests.csproj|c:\\users\\grdan\\desktop\\squareslib\\squareslib.tests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C91C3D-25B4-4D28-A6C9-0A8D2A19C353}|SquaresLib.Tests\\SquaresLib.Tests.csproj|solutionrelative:squareslib.tests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C91C3D-25B4-4D28-A6C9-0A8D2A19C353}|SquaresLib.Tests\\SquaresLib.Tests.csproj|c:\\users\\grdan\\desktop\\squareslib\\squareslib.tests\\squareslib.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C4C91C3D-25B4-4D28-A6C9-0A8D2A19C353}|SquaresLib.Tests\\SquaresLib.Tests.csproj|solutionrelative:squareslib.tests\\squareslib.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568B4794-9E69-441D-93F3-5BCAA7071EC2}|SquaresLib\\SquaresLib.csproj|c:\\users\\grdan\\desktop\\squareslib\\squareslib\\getsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568B4794-9E69-441D-93F3-5BCAA7071EC2}|SquaresLib\\SquaresLib.csproj|solutionrelative:squareslib\\getsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\grdan\\Desktop\\SquaresLib\\SQL-Request\\Program.cs",
+              "RelativeDocumentMoniker": "SQL-Request\\Program.cs",
+              "ToolTip": "C:\\Users\\grdan\\Desktop\\SquaresLib\\SQL-Request\\Program.cs",
+              "RelativeToolTip": "SQL-Request\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T18:24:08.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SquaresLib.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\grdan\\Desktop\\SquaresLib\\SquaresLib.Tests\\SquaresLib.Tests.csproj",
+              "RelativeDocumentMoniker": "SquaresLib.Tests\\SquaresLib.Tests.csproj",
+              "ToolTip": "C:\\Users\\grdan\\Desktop\\SquaresLib\\SquaresLib.Tests\\SquaresLib.Tests.csproj",
+              "RelativeToolTip": "SquaresLib.Tests\\SquaresLib.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-22T18:10:48.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tests.cs",
+              "DocumentMoniker": "C:\\Users\\grdan\\Desktop\\SquaresLib\\SquaresLib.Tests\\Tests.cs",
+              "RelativeDocumentMoniker": "SquaresLib.Tests\\Tests.cs",
+              "ToolTip": "C:\\Users\\grdan\\Desktop\\SquaresLib\\SquaresLib.Tests\\Tests.cs",
+              "RelativeToolTip": "SquaresLib.Tests\\Tests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T18:10:37.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetSquare.cs",
+              "DocumentMoniker": "C:\\Users\\grdan\\Desktop\\SquaresLib\\SquaresLib\\GetSquare.cs",
+              "RelativeDocumentMoniker": "SquaresLib\\GetSquare.cs",
+              "ToolTip": "C:\\Users\\grdan\\Desktop\\SquaresLib\\SquaresLib\\GetSquare.cs",
+              "RelativeToolTip": "SquaresLib\\GetSquare.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T18:04:51.987Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
